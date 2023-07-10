@@ -169,7 +169,7 @@ Please note, it's advisable to install this package for Admin only.
 As part of the learning experience, some deliberate errors have been included in the setup. We invite you to identify and rectify them as needed. Feel empowered to make adjustments to any object, field, or layout to better suit your project requirements.
 
 ## Tasks
-[SnappCar -  P2P Car Rental App Tasks (Excel File)](SnappCar-Issues-Triforcia.xlsx)
+[SnappCar -  P2P Car Rental App Tasks (Excel File)](SnappCarr-Issues-Triforcia.xlsx)
 
 ## At the end of the project, following topics are to be covered;
 - Apex Coding
