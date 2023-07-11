@@ -45,7 +45,8 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Gear Box Type			Text(80)		
 - Image				URL(255) 	
 - Last Odometer Reading		Number(18, 0) 	
-- Odometer Reading Date		Date	
+- Odometer Reading Date		Date
+- Odometer Status Picklist
 - Status				Picklist		
 - Vehicle Identification Number	Text(255)* 	
 - Vehicle Name			Text(80)	*	
