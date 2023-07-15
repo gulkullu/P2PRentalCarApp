@@ -30,9 +30,10 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Renting Amount		Currency(16, 2)*
 - Renting Type		Picklist(Daily, Hourly)
 - Roadside Assistance Fee	Currency(16, 2)	
-- SnappCar Fee		Currency(18, 0)	
-- Surcharge Fee		Currency(16, 2)	
-- Total Amount		Currency(18, 0)	
+- SnappCar Fee		Currency(16, 2)	
+- Surcharge Fee		Currency(16, 2)
+- One-Off Verification Fee Currency (16,2)
+- Total Amount		Currency(16, 2)	
 - Vehicle Renting ID	Auto Number*	
 - Young Driver Fee		Currency(16, 2)
 
@@ -52,11 +53,10 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Vehicle Registration Date		Date
 
 **Rental Listings**
-- Rental Listings
-- Daily Rate			Currency(16, 2) 	
+- Rental Listings	
 - End Date			Date	
 - Extra mile price		Currency(16, 2) 	
-- Hourly Rate		Currency(16, 2) 	
+- Rate Type		Picklist (Hourly, Daily)	
 - isActive			Checkbox*	
 - isSmartPrice		Checkbox		
 - Long Term Discount	Checkbox	
