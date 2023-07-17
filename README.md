@@ -18,7 +18,7 @@ Welcome to the Triforcia Salesforce app development project for SnappCar, the se
 - [Steps to Solution](#steps-to-solution)
 - [Considerations](#considerations)
 - [Resources](#resources)
-- [Contact Information](#contact-information)
+
 
 
 
@@ -29,7 +29,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Car renter's information and rental process management
 - Rental transaction and invoice management
 
-[Table of Contents] (#table-of-Contents)
+[Table of Contents] (#table-of-contents)
 
 ## Objects to Create
 **Vehicle Owners**
@@ -224,7 +224,9 @@ As part of the learning experience, some deliberate errors have been included in
 - Workbench Usage
 
 
-## At the end of the project, interns will be able to;
+## Project Objectives
+
+At the end of the project, interns will be able to;
 - Design and implement custom objects and fields in Salesforce
 
 - Develop Apex code and test classes to support business requirements
