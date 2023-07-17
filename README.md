@@ -197,7 +197,7 @@ We strongly encourage you to manually create all the necessary objects and field
 
 However, for those who wish to expedite the setup process, an unmanaged package is available for installation. Here's the link:
 
-[Install Unmanaged App Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHo0000002Ok4&isdtp=p1)
+[Install Unmanaged App Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHo0000002VjH&isdtp=p1)
 
 
 Please note, it's advisable to install this package for Admin only.
