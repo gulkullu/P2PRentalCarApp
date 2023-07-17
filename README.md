@@ -21,12 +21,15 @@ Welcome to the Triforcia Salesforce app development project for SnappCar, the se
 - [Contact Information](#contact-information)
 
 
+
 ## Problem Statement
 SnappCar needs a comprehensive Car Rental Management System that will help them to streamline their rental processes effectively in the US, including:
 - Car owner and renter registration
 - Car owner's information and keyless car listing management
 - Car renter's information and rental process management
 - Rental transaction and invoice management
+
+[Table of Contents] (#table-of-Contents)
 
 ## Objects to Create
 **Vehicle Owners**
