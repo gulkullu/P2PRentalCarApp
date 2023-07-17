@@ -29,7 +29,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Car renter's information and rental process management
 - Rental transaction and invoice management
 
-[Table of Contents] (#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 ## Objects to Create
 **Vehicle Owners**
@@ -103,13 +103,21 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Vehicle		Lookup(Vehicle)
 
 *Required fields
+
+[Table of Contents](#table-of-contents)
+
 ## Data Modeling
 ![P2PRental_DataModeling.png](P2PRental_DataModeling.png)
+
+[Table of Contents](#table-of-contents)
 
 ## Organization Wide Defaults
 ![orgwidedefaults.png](orgwidedefualts.png)
 
 Note: This is the initial plan. If you think that an update needed, please feel free to change. But please test it first!
+
+[Table of Contents](#table-of-contents)
+
 ## Profile/Permission Set Settings
 ![ProfilesAndPermissionSets.png](ProfilesAndPermissionSets.png)
 
@@ -125,6 +133,8 @@ X - No Access
 
 *Permission Set recommended
 Note: This is the initial plan. If you think that an update needed, please feel free to change. But please test it first!
+
+[Table of Contents](#table-of-contents)
 
 ## Email Templates
 
@@ -167,7 +177,10 @@ Best Regards,
 SnappCar Team
 
 
-Please replace the {} placeholders with the respective fields' API names in Salesforce.
+Please replace the {} placeholders with the respective fields' API names in Salesforce. 
+These templates are provided just as an example. Feel free to update the wording and content of the templates or even you can create completely a new ones. 
+
+[Table of Contents](#table-of-contents)
 
 ## Unit Test Classes
 
@@ -175,6 +188,8 @@ Please replace the {} placeholders with the respective fields' API names in Sale
 - Create mock data method with Test Utility Class or Test Setup method
 - Use Test.startTest & Test.stopTest
 - Cover all possible scenarios
+
+[Table of Contents](#table-of-contents)
 
 ## Unmanaged Package
 
@@ -189,8 +204,12 @@ Please note, it's advisable to install this package for Admin only.
 
 As part of the learning experience, some deliberate errors have been included in the setup. We invite you to identify and rectify them as needed. Feel empowered to make adjustments to any object, field, or layout to better suit your project requirements.
 
+[Table of Contents](#table-of-contents)
+
 ## Tasks
 [SnappCar -  P2P Car Rental App Tasks (Excel File)](SnappCarr-P2P-CarRental-App-Issues-Triforcia.xlsx)
+
+[Table of Contents](#table-of-contents)
 
 ## At the end of the project, the following topics are to be covered;
 - Apex Coding
@@ -223,6 +242,7 @@ As part of the learning experience, some deliberate errors have been included in
 
 - Workbench Usage
 
+[Table of Contents](#table-of-contents)
 
 ## Project Objectives
 
@@ -255,6 +275,8 @@ At the end of the project, interns will be able to;
 
 - Using and creating unmanagaed packages 
 
+[Table of Contents](#table-of-contents)
+
 ## Steps to Solution
 - Step 1: Download or clone project definition from `Clarusway_Cohort4_Developer_Handson` repo on Github 
 
@@ -272,10 +294,14 @@ At the end of the project, interns will be able to;
 
 - Step 8: Prepeare your presentation on 28th July 2023 at 8 PM
 
+  [Table of Contents](#table-of-contents)
+
 ## Considerations
 - Feel free to update fields, page layouts, and settings
 
 - Use brand new, never touched developer org(not playground)
+  
+[Table of Contents](#table-of-contents)
 
 ## Resources
 - [Developer Org Signup](https://developer.salesforce.com/signup)
