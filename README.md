@@ -1,7 +1,25 @@
 # Triforcia Developer Internship: P2P Car Rental App for Carshare Ventures B.V. (SnappCar)
-SnappCar, the second-largest car-sharing platform in Europe, has made significant strides since its founding in the Netherlands in 2011. The company is planning to expand its business into the United States. As part of this expansion, SnappCar is looking to leverage Salesforce for managing their car rental processes in the USA operations.
+## Introduction
+Welcome to the Triforcia Salesforce app development project for SnappCar, the second-largest car-sharing platform in Europe, has made significant strides since its founding in the Netherlands in 2011. The company is planning to expand its business into the United States. As part of this expansion, SnappCar is looking to leverage Salesforce for managing their car rental processes in the USA operations.
 
 [SnappCar Official Website](https://snappcar.nl/)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Objects to Create](#objects-to-create)
+- [Data Modeling](#data-modeling)
+- [Organization Wide Defaults](#organization-wide-defaults)
+- [Email Templates](#email-templates)
+- [Unit Test Classes](#unit-test-classes)
+- [Unmanaged Package](#unmanaged-package)
+- [Tasks](#tasks)
+- [Project Objectives](#project-objectives)
+- [Steps to Solution](#steps-to-solution)
+- [Considerations](#considerations)
+- [Resources](#resources)
+- [Contact Information](#contact-information)
+
 
 ## Problem Statement
 SnappCar needs a comprehensive Car Rental Management System that will help them to streamline their rental processes effectively in the US, including:
