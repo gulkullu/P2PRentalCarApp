@@ -60,7 +60,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 
 **Vehicle**
 - Chassis Number			Text(255)*			
-- Condition			Picklist		
+- Condition			Picklist		(Running, New, Old)
 - Cyclinder Count			Number(18, 0)		
 - Engine Number			Text(255) 	
 - Exterior Color			Text(80)		
@@ -68,7 +68,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Image				URL(255) 	
 - Last Odometer Reading		Number(18, 0) 	
 - Odometer Reading Date		Date
-- Status				Picklist		
+- Status				Picklist		(Active, In service, Paused, Inactive)
 - Vehicle Identification Number	Text(255)* 	
 - Vehicle Name			Text(80)	*	
 - Vehicle Registration Date		Date
@@ -94,8 +94,8 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Claim ID		Auto Number*	
 - Documents	URL(255)		
 - Final Amount	Currency(16, 2)	
-- Payer		Picklist			
-- Type		Picklist
+- Payer		Picklist			(Insurance, Renter, Owner, SnappCar)
+- Type		Picklist (Accident, Damage, Lower Fuel, Late Return, Ticket, Other)
 
 **Keyless**
 - InUse?		Checkbox			
