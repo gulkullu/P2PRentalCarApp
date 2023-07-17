@@ -171,7 +171,7 @@ As part of the learning experience, some deliberate errors have been included in
 ## Tasks
 [SnappCar -  P2P Car Rental App Tasks (Excel File)](SnappCarr-P2P-CarRental-App-Issues-Triforcia.xlsx)
 
-## At the end of the project, following topics are to be covered;
+## At the end of the project, the following topics are to be covered;
 - Apex Coding
 
 - Test Classes
@@ -198,6 +198,10 @@ As part of the learning experience, some deliberate errors have been included in
 
 - VS Code Usage
 
+- Devops Center Usage
+
+- Workbench Usage
+
 
 ## At the end of the project, interns will be able to;
 - Design and implement custom objects and fields in Salesforce
@@ -219,6 +223,14 @@ As part of the learning experience, some deliberate errors have been included in
 - Configure and customize Experience Cloud to provide a branded, self-service portal for customers
  
 - Manage a project using Jira project management tool and Git & Github for version control system
+
+- Creating Scratch Orgs
+
+- Manage a project using Devops Center
+
+- Deploy metadata via Workbench
+
+- Using and creating unmanagaed packages 
 
 ## Steps to Solution
 - Step 1: Download or clone project definition from `Clarusway_Cohort4_Developer_Handson` repo on Github 
