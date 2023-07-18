@@ -74,8 +74,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Vehicle Registration Date		Date
 
 **Rental Listings**
-- Rental Listings	
-- End Date			Date	
+- Rental Listings	End Date			Date	
 - Extra mile price		Currency(16, 2) 	
 - Rate Type		Picklist (Hourly, Daily)	
 - isActive			Checkbox*	
