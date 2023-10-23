@@ -277,7 +277,7 @@ At the end of the project, interns will be able to;
 [Table of Contents](#table-of-contents)
 
 ## Steps to Solution
-- Step 1: Download or clone project definition from `Clarusway_Cohort4_Developer_Handson` repo on Github 
+- Step 1: Download or clone project definition from `Clarusway_Cohort5_Developer_Handson` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
@@ -291,7 +291,7 @@ At the end of the project, interns will be able to;
 
 - Step 7: Deploy your application on developer org using to showcase your app within your team.
 
-- Step 8: Prepeare your presentation on 28th July 2023 at 8 PM
+- Step 8: Prepeare your presentation on 3th November 2023 at 8 PM
 
   [Table of Contents](#table-of-contents)
 
