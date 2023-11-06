@@ -1,0 +1,32 @@
+/* Container styling */
+.slds-m-around_medium {
+    padding: 20px;
+    background-color: #f4f6f9;
+    border: 1px solid #d8dde6;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Title styling */
+lightning-card {
+    margin-bottom: 20px;
+}
+
+lightning-card > slot[name="title"] {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2a3f5f;
+    padding: 10px 0;
+    border-bottom: 1px solid #d8dde6;
+}
+
+/* Button styling */
+lightning-button {
+    margin-top: 20px;
+    background-color: #0070d2;
+}
+
+/* Combobox and input spacing */
+lightning-combobox, lightning-input, lightning-checkbox-group {
+    margin-bottom: 15px;
+}

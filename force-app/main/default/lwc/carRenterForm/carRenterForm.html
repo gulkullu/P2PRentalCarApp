@@ -1,0 +1,39 @@
+<template>
+    <lightning-card title="Car Renter Registration">
+        
+        <div class="slds-m-around_medium">
+            
+            <lightning-record-edit-form object-api-name="RentalListing__c" onclick={handleSubmit}  onsuccess={handleSuccess}>
+                <lightning-messages></lightning-messages>
+                  
+            <lightning-combobox name="vehicle" label="Choose a Vehicle" 
+                                options={vehicleOptions} 
+                                value={selectedVehicle} 
+                                onchange={handleVehicleChange}>
+            </lightning-combobox>
+
+            <lightning-input type="date" name="startDate" label="Start Date" onchange={handleStartDateChange}></lightning-input>
+            <lightning-input type="date" name="endDate" label="End Date" onchange={handleEndDateChange}></lightning-input>
+
+
+            <lightning-combobox name="rateType" label="Rate Type" 
+                                options={rateOptions} 
+                                value={selectedRate} 
+                                onchange={handleRateChange}>
+            </lightning-combobox>
+
+            <lightning-combobox name="vehicleOwnerId" label="Vehicle Owner" 
+                    options={vehicleOwners} 
+                    value={vehicleOwnerId} 
+                    placeholder="Select a Vehicle Owner" 
+                    onchange={handleVehicleOwnerChange}>
+            </lightning-combobox>
+
+
+                <!-- Your form fields here -->
+                <lightning-button type="submit" label="Submit" class="slds-m-top_medium" onsubmit={handleSubmit}></lightning-button>
+            </lightning-record-edit-form>
+            
+        </div>
+    </lightning-card>
+</template>
